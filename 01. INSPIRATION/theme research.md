@@ -1,4 +1,4 @@
-# Inspiration Master Thesis
+# Master Thesis
 ## Topics and specific terms
 
 1. **Circuit bending**: Le circuit bending désigne l'activité qui consiste à court-circuiter de façon volontaire des instruments de musique électroniques de faible tension électrique, fonctionnant sur piles (jouets pour enfants munis de haut-parleur, effets pour guitare, petits synthétiseurs) de façon à créer de nouveaux générateurs de sons.
