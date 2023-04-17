@@ -21,7 +21,7 @@
 
 3. Comment rendre ces savoirs accessibles au plus grand nombre ?
 
-4. Quels sont les nouveaux modes de ces technologies ? Quels changement cela implique-t-il du côté consommateur.ice ?
+4. Quels sont les nouveaux modes de consomation ces technologies ? Quels changement cela implique-t-il du côté consommateur.ice ?
 
 
 ## Academic ressources
