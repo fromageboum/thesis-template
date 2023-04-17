@@ -15,7 +15,7 @@
 
 ## Questions
 
-1. Où peut apprendre des moyens low tech de recycler de l'électronique ?
+1. Où peut on apprendre des moyens low tech de recycler de l'électronique ?
 
 2. Quelle est le gestion actuelle des déchets electronique en France (Europe?) ?
 
