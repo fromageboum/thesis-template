@@ -2,7 +2,7 @@
 ## Topics and specific terms
 
 1. **Circuit bending**: Le circuit bending désigne l'activité qui consiste à court-circuiter de façon volontaire des instruments de musique électroniques de faible tension électrique, fonctionnant sur piles (jouets pour enfants munis de haut-parleur, effets pour guitare, petits synthétiseurs) de façon à créer de nouveaux générateurs de sons.
-2. **Fab-lab**: Le principe des fab labs16 est le même que celui des hackerspace et makerspace, c'est-à-dire le partage libre d'espaces, de machines, de compétences et de savoirs. 
+2. **Fab-lab**: Le principe des fab labs est le même que celui des hackerspace et makerspace, c'est-à-dire le partage libre d'espaces, de machines, de compétences et de savoirs. 
 
 3. **Hackerspace**:Un hackerspace (ou hacker house) est un tiers-lieu où des gens avec un intérêt commun (souvent autour de l'informatique, de la technologie, des sciences, des arts...) peuvent se rencontrer et collaborer. Les hackerspaces peuvent être vus comme des laboratoires communautaires ouverts où les hackers peuvent partager leurs ressources et leurs connaissances. 
 
