@@ -42,7 +42,7 @@
 
 2. [Hacker trotinette](https://infokiosques.net/spip.php?page=lire&id_article=1747)
 
-3. [Gestion déchets electroniue en afrique](https://books.google.ch/books?hl=fr&lr=&id=tHv1AgAAQBAJ&oi=fnd&pg=PA3&dq=d%C3%A9chets+electroniques&ots=XFGEVIGmfI&sig=FH52P3VLsbQTS_GjWIVI9gpEq3U&redir_esc=y#v=onepage&q&f=false)
+3. [Gestion déchets electronique en afrique](https://books.google.ch/books?hl=fr&lr=&id=tHv1AgAAQBAJ&oi=fnd&pg=PA3&dq=d%C3%A9chets+electroniques&ots=XFGEVIGmfI&sig=FH52P3VLsbQTS_GjWIVI9gpEq3U&redir_esc=y#v=onepage&q&f=false)
 
 4. [low tech video games](http://lowtek.co.uk/)
 
