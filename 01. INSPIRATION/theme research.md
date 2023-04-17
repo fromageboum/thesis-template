@@ -12,6 +12,8 @@
 
 6. **Reverse Engeenering**: La rétro-ingénierie, ou ingénierie inversée, est l'activité qui consiste à étudier un objet pour en déterminer le fonctionnement interne, la méthode de fabrication, peut-être dans l'intérêt de le modifier.
 
+7. **E-waste**: Les déchets d'équipements électriques et électroniques — produits électriques et électroniques en fin de vie — sont une catégorie de déchets constituée des équipements en fin de vie, fonctionnant à l'électricité ou via des champs électromagnétiques, ainsi que les équipements de production, de transfert et de mesure de ces courants et champs (ce sont surtout des ordinateurs, imprimantes, téléphones portables, appareils photos numériques, réfrigérateurs, jeux électroniques, télévisions, etc.). 
+
 
 ## Questions
 
