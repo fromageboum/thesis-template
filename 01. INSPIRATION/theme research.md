@@ -37,6 +37,7 @@
 4. [Research of Upcycling Supports to Increase Re-use, with a Focus on Waste Electrical and Electronic Equipment (UpWEEE)- Michael Johnson, Kathleen McMahon and Colin Fitzpatrick](https://www.epa.ie/publications/research/waste/Research_Report_241.pdf)
 
 5. [Upcycling and urban mining for nanomaterial synthesis- Kevin M.Wiss](https://www.sciencedirect.com/science/article/abs/pii/S1748013223000300)
+6. [Global E-waste monitor 2020](https://www.researchgate.net/profile/Vanessa-Forti/publication/342783104_The_Global_E-waste_Monitor_2020_Quantities_flows_and_the_circular_economy_potential/links/5f05e6c0458515505094a3ac/The-Global-E-waste-Monitor-2020-Quantities-flows-and-the-circular-economy-potential.pdf)
 
 ## Other ressources
 
