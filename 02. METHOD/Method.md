@@ -1,8 +1,8 @@
-# Method "Bâtir l'imaginaire du détournement"
+# Method "Bâtir l'imaginaire via le détournement"
 
 ## Méthode d'enquête
 
-Pour avancer sur la recherche, l'idéal serai de prévoir un calendrier pour assister à différentes séances dans des hackerspaces et fablab, ou "lieux de détournements". Pour pouvoir à la fois interviewer les personnes qui participent au fonctionnement de ces lieux, mais également documenter les objets qui sont créés. Leur forme, les outils utilisés, l'imaginaire qui se batît autour d'eux.
+Pour avancer sur la recherche, l'idéal serai de prévoir un calendrier pour assister à différentes séances dans des hackerspaces et fablab, ou "lieux de détournements". Pour pouvoir à la fois interviewer les personnes qui participent au fonctionnement de ces lieux, mais également documenter les objets qui sont créés. Leur forme, les outils utilisés, l'imaginaire qui se batît autour d'eux. Il peut aussi être intéressant 
 
 ## Lieux d'investigation potentielle
 
