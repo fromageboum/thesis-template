@@ -2,7 +2,7 @@
 
 ## Méthode d'enquête
 
-Pour avancer sur la recherche, l'idéal serai de prévoir un calendrier pour assister à différentes séances dans des hackerspaces et fablab, ou "lieux de détournements". Pour pouvoir à la fois interviewer les personnes qui participent au fonctionnement de ces lieux, mais également documenter les objets qui sont créés. Leur forme, les outils utilisés, l'imaginaire qui se batît autour d'eux. Il peut aussi être intéressant 
+Pour avancer sur la recherche, l'idéal serai de prévoir un calendrier pour assister à différentes séances dans des hackerspaces et fablab, ou "lieux de détournements". Pour pouvoir à la fois interviewer les personnes qui participent au fonctionnement de ces lieux, mais également documenter les objets qui sont créés. Leur forme, les outils utilisés, l'imaginaire qui se batît autour d'eux. 
 
 ## Lieux d'investigation potentielle
 
@@ -21,4 +21,3 @@ Pour avancer sur la recherche, l'idéal serai de prévoir un calendrier pour ass
 - Pourquoi bricoler des choses "inutiles" ?
 - Quel est le rôle du virtuel dans le design ?
 - Qu'est ce qui influence la plastique des formes détournés ?
-- 
